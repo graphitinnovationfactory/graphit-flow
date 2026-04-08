@@ -21,7 +21,7 @@
 
 1.  **Clonează repository-ul:**
     ```bash
-    git clone [https://github.com/graphit-innovation/graphit-flow.git](https://github.com/graphit-innovation/graphit-flow.git)
+    git clone https://github.com/graphitinnovationfactory/graphit-flow.git
     cd graphit-flow
     ```
 
